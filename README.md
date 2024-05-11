@@ -1,2 +1,0 @@
-# ecomm
-An ecommerce website 
